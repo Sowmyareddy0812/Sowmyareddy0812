@@ -1,4 +1,4 @@
-# About Me: 
+✨ # About Me: 
 👋 Hello, I'm Sowmya Reddy!
 
 🚀 Welcome to my GitHub portfolio, where I showcase my passion for coding and technology. I'm currently an Electronics and Communication Engineering student at SNIST with a strong commitment to creating innovative solutions and contributing to open-source projects.<br>
