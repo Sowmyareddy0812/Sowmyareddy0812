@@ -8,9 +8,8 @@
 🌟 Javascript is something I'm learning right now, and I'm really looking forward to it.<br>
 😍 Additionally, I enjoy painting and reading books.<br>
 
-##🔗 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([![LinkedIn](www.linkedin.com/in/
-mandapuram-sowmya-reddy)
+##🔗 Let's Connect:<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([![LinkedIn](www.linkedin.com/in/mandapuram-sowmya-reddy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kinshukgoel4/)](https://www.instagram.com/s12.81_/)
 [![Gmail Badge](https://img.shields.io/badge/-MailID-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kinshukgoel4@gmail.com)](mailto:sowmyareddy0812@gmail.com)
 
